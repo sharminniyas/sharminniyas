@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharminniyas
 - 👀 I’m interested in Mathematics and the way it shapes the future
 - 🌱 I’m currently learning Python with Programming, Calculus with Analysis,  Probability and Statistics and Number, sets and Functions
-- 💞️ I’m looking to collaborate on verious research projects especially invloving the enviroment
+- 💞️ I’m looking to collaborate on various research projects especially invloving the Enviroment!
   
 
 <!---
