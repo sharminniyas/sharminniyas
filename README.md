@@ -2,6 +2,7 @@
 - 👀 I’m interested in Mathematics and the way it shapes the future
 - 🌱 I’m currently learning Python with Programming, Calculus with Analysis,  Probability and Statistics and Number, sets and Functions
 - 💞️ I’m looking to collaborate on various research projects especially invloving the Enviroment!
+- How to reach me is my gmail:  sharminn0729@gmail.com
   
 
 <!---
